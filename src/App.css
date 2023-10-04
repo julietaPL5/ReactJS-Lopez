@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1e7f9;
+}
+
+.listNavBar {
+    background-color: #6d4b92;
+    border: 0;
+    border-radius: 9px;
+    margin-left: 25px;
+    height: 35px;
+    width: 80px;
+    cursor: pointer;
+    transition: 0.4s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listNavBar:hover {
+    background-color: #ad6ef0;
+}
+
+.itemList {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 25px;
+}
+.itemList .card {
+    text-align: center;
+    background-color: #a791bf;
+    border-radius: 5px;
+    margin: 10px;
+    width: 210px;
+}
+.itemList .card .img {
+    height: 150px;
+    width: 150px;
+}
+.itemList .card .name {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.itemList .card .price {
+    font-size: 17px;
+    margin-bottom: 7px;
+}
+.itemList .card .counter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.itemList .card .counter img {
+    height: 25px;
+    width: 25px;
+    background-color: #6d4b92;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.itemList .card .counter img:hover {
+    background-color: #ad6ef0;
+}
+.itemList .card .btnAddCart {
+    background-color: #6d4b92;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.itemList .card .btnAddCart:hover {
+    background-color: #ad6ef0;
+}
+.itemList .card .detailItem {
+    background-color: #6d4b92;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.itemList .card .detailItem:hover {
+    background-color: #ad6ef0;
+}
+

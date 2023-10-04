@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "category": "cd",
+        "name": "CD Fearless (Taylor's Version)",
+        "price": 6000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/fearless/cd.webp"
+    },
+    {
+        "id": 2,
+        "category": "vinilo",
+        "name": "Vinilo Fearless (Taylor's Version)",
+        "price": 13000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/fearless/vinilo.webp"
+    },
+    {
+        "id": 3,
+        "category": "cassette",
+        "name": "Cassette Fearless (Taylor's Version)",
+        "price": 11000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/fearless/cassette.webp"
+    },
+    {
+        "id": 4,
+        "category": "cd",
+        "name": "CD Speak Now (Taylor's Version)",
+        "price": 7000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/speak-now/cd.webp"
+    },
+    {
+        "id": 5,
+        "category": "vinilo",
+        "name": "Vinilo Speak Now (Taylor's Version)",
+        "price": 14000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/speak-now/vinilo.webp"
+    },
+    {
+        "id": 6,
+        "category": "cassette",
+        "name": "Cassette Speak Now (Taylor's Version)",
+        "price": 11500,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/speak-now/cassette.webp"
+    },
+    {
+        "id": 7,
+        "category": "cd",
+        "name": "CD Red (Taylor's Version)",
+        "price": 5000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/red/cd.webp"
+    },
+    {
+        "id": 8,
+        "category": "vinilo",
+        "name": "Vinilo Red (Taylor's Version)",
+        "price": 13000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/red/vinilo.webp"
+    },
+    {
+        "id": 9,
+        "category": "cd",
+        "name": "CD 1989 (Taylor's Version)",
+        "price": 7000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/1989/cd.webp"
+    },
+    {
+        "id": 10,
+        "category": "vinilo",
+        "name": "Vinilo 1989 (Taylor's Version)",
+        "price": 13000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/1989/vinilo.webp"
+    },
+    {
+        "id": 11,
+        "category": "cassette",
+        "name": "Cassette 1989 (Taylor's Version)",
+        "price": 11000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/1989/cassette.webp"
+    },
+    {
+        "id": 12,
+        "category": "cd",
+        "name": "CD Folklore",
+        "price": 5000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/folklore/cd-deluxe.webp"
+    },
+    {
+        "id": 13,
+        "category": "cd",
+        "name": "CD Evermore",
+        "price": 5500,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/evermore/cd-deluxe.webp"
+    },
+    {
+        "id": 14,
+        "category": "cd",
+        "name": "CD Midnights",
+        "price": 5000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/midnights/cd-moonstone_blue2.webp"
+    },
+    {
+        "id": 15,
+        "category": "vinilo",
+        "name": "Vinilo Midnights",
+        "price": 12000,
+        "img": "https://julietapl5.github.io/ProyectoFinal-Lopez/assets/images/midnights/vinilo-moonstone_blue.webp"
+    }
+]

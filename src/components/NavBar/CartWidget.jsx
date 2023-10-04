@@ -1,9 +1,11 @@
+import cartFill from '../../assets/icons/cartFill.svg'
 
-const CartWidget = () => {
+
+const CartWidget = (props) => {
 
     const styleCartWidget = {
-        height: "40px",
-        width: "40px",
+        height: "30px",
+        width: "30px",
         cursor: "pointer",
     }
     const styleSpan = {
@@ -15,8 +17,8 @@ const CartWidget = () => {
     }
 
     return (
-        <div style={{display: "flex", justifyContent: "space-around"}}>
-            <img src="cart-fill.svg" alt="cart" style={styleCartWidget} />
+        <div style={props.style}>
+            <img src={cartFill} alt="cart" style={styleCartWidget} />
             <span style={styleSpan}>2</span>
         </div>   
     )
